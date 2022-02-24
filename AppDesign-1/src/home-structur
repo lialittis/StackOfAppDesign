@@ -1,0 +1,9 @@
+            Home (State) data
+
+         /        \  (props)
+
+（state）Edit         List
+
+                        \
+
+                            Item
